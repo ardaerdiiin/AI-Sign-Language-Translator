@@ -12,7 +12,7 @@
   <br />
 </div>
 
-> **Not:** Detaylı Türkçe dokümantasyon (mimari, tasarım kararları ve proje beratı) için [docs/PROJE_BERATI_TR.md](docs/PROJE_BERATI_TR.md) dosyasını inceleyebilirsiniz.
+
 
 ---
 
