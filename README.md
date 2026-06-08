@@ -14,14 +14,7 @@
 
 
 
----
 
-## 📸 Ekran Görüntüsü
-> Uygulamanın çalışırken alınmış ekran görüntüsü:
-
-![AI-Sign Arayüzü](assets/screenshot.png)
-
----
 
 ## 🚀 Proje Hakkında
 
