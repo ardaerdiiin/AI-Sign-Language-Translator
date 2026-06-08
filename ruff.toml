@@ -1,0 +1,52 @@
+# AŞAMA 1: ZORUNLU KONFİGÜRASYONLAR (Uygulanabilir Kurallar)
+# Antigravity IDE - Ruff Configuration for Python
+
+[lint]
+# Select specific rule sets
+select = [
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "F",   # pyflakes
+    "I",   # isort
+    "C90", # mccabe complexity
+    "N",   # pep8-naming
+    "D",   # pydocstyle (Docstring rules)
+    "UP",  # pyupgrade
+    "ASYNC", # flake8-async (Async-first yaklaşım)
+    "S",     # flake8-bandit (Security, e.g., hardcode yasak, environment vb.)
+    "B",     # flake8-bugbear (Common bugs, error handling)
+    "A",     # flake8-builtins
+    "COM",   # flake8-commas
+    "C4",    # flake8-comprehensions
+    "DTZ",   # flake8-datetimez
+    "EM",    # flake8-errmsg (Exception handling)
+    "ISC",   # flake8-implicit-str-concat
+    "PIE",   # flake8-pie
+    "PT",    # flake8-pytest-style
+    "RET",   # flake8-return
+    "SIM",   # flake8-simplify
+    "TCH",   # flake8-type-checking
+    "ARG",   # flake8-unused-arguments
+    "PTH",   # flake8-use-pathlib
+    "TRY",   # tryceratops (Typed error handling and exception logging)
+    "RUF",   # Ruff-specific rules
+]
+
+ignore = [
+    "D203", # 1 blank line required before class docstring
+    "D212", # Multi-line docstring summary should start at the first line
+    "D100", # Missing docstring in public module
+]
+
+[lint.mccabe]
+# SOLID ve DRY prensiplerini ihlalleri engellemek için complexity limit
+max-complexity = 8
+
+[lint.pydocstyle]
+convention = "google" # Docstring / comment kuralları
+
+[format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
+line-ending = "auto"

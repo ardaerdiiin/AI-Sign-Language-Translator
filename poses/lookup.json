@@ -1,0 +1,254 @@
+{
+  "ad": {
+    "label": "Ad",
+    "label_index": 0,
+    "pose_file": "ad.json",
+    "video_file": "ad.mp4",
+    "frame_count": 54,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "araba": {
+    "label": "Araba",
+    "label_index": 1,
+    "pose_file": "araba.json",
+    "video_file": "araba.mp4",
+    "frame_count": 45,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "bekle": {
+    "label": "Bekle",
+    "label_index": 2,
+    "pose_file": "bekle.json",
+    "video_file": "bekle.mp4",
+    "frame_count": 61,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "bugun": {
+    "label": "Bugun",
+    "label_index": 3,
+    "pose_file": "bugun.json",
+    "video_file": "bugun.mp4",
+    "frame_count": 51,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "doktor": {
+    "label": "Doktor",
+    "label_index": 4,
+    "pose_file": "doktor.json",
+    "video_file": "doktor.mp4",
+    "frame_count": 48,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "ekmek": {
+    "label": "Ekmek",
+    "label_index": 5,
+    "pose_file": "ekmek.json",
+    "video_file": "ekmek.mp4",
+    "frame_count": 64,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "ev": {
+    "label": "Ev",
+    "label_index": 6,
+    "pose_file": "ev.json",
+    "video_file": "ev.mp4",
+    "frame_count": 58,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "evet": {
+    "label": "Evet",
+    "label_index": 7,
+    "pose_file": "evet.json",
+    "video_file": "evet.mp4",
+    "frame_count": 71,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "gel": {
+    "label": "Gel",
+    "label_index": 8,
+    "pose_file": "gel.json",
+    "video_file": "gel.mp4",
+    "frame_count": 46,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "git": {
+    "label": "Git",
+    "label_index": 9,
+    "pose_file": "git.json",
+    "video_file": "git.mp4",
+    "frame_count": 47,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "hayir": {
+    "label": "Hayir",
+    "label_index": 10,
+    "pose_file": "hayir.json",
+    "video_file": "hayir.mp4",
+    "frame_count": 44,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "iyi": {
+    "label": "Iyi",
+    "label_index": 11,
+    "pose_file": "iyi.json",
+    "video_file": "iyi.mp4",
+    "frame_count": 34,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "kac": {
+    "label": "Kac",
+    "label_index": 12,
+    "pose_file": "kac.json",
+    "video_file": "kac.mp4",
+    "frame_count": 64,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "kotu": {
+    "label": "Kotu",
+    "label_index": 13,
+    "pose_file": "kotu.json",
+    "video_file": "kotu.mp4",
+    "frame_count": 41,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "lutfen": {
+    "label": "Lutfen",
+    "label_index": 14,
+    "pose_file": "lutfen.json",
+    "video_file": "lutfen.mp4",
+    "frame_count": 57,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "merhaba": {
+    "label": "Merhaba",
+    "label_index": 15,
+    "pose_file": "merhaba.json",
+    "video_file": "merhaba.mp4",
+    "frame_count": 96,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "ne": {
+    "label": "Ne",
+    "label_index": 16,
+    "pose_file": "ne.json",
+    "video_file": "ne.mp4",
+    "frame_count": 42,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "nerede": {
+    "label": "Nerede",
+    "label_index": 17,
+    "pose_file": "nerede.json",
+    "video_file": "nerede.mp4",
+    "frame_count": 50,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "okul": {
+    "label": "Okul",
+    "label_index": 18,
+    "pose_file": "okul.json",
+    "video_file": "okul.mp4",
+    "frame_count": 41,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "polis": {
+    "label": "Polis",
+    "label_index": 19,
+    "pose_file": "polis.json",
+    "video_file": "polis.mp4",
+    "frame_count": 69,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "sen": {
+    "label": "Sen",
+    "label_index": 20,
+    "pose_file": "sen.json",
+    "video_file": "sen.mp4",
+    "frame_count": 38,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "sevmek": {
+    "label": "Sevmek",
+    "label_index": 21,
+    "pose_file": "sevmek.json",
+    "video_file": "sevmek.mp4",
+    "frame_count": 81,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "soyad": {
+    "label": "Soyad",
+    "label_index": 22,
+    "pose_file": "soyad.json",
+    "video_file": "soyad.mp4",
+    "frame_count": 54,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "su": {
+    "label": "Su",
+    "label_index": 23,
+    "pose_file": "su.json",
+    "video_file": "su.mp4",
+    "frame_count": 49,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "tamam": {
+    "label": "Tamam",
+    "label_index": 24,
+    "pose_file": "tamam.json",
+    "video_file": "tamam.mp4",
+    "frame_count": 55,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "yardim": {
+    "label": "Yardim",
+    "label_index": 25,
+    "pose_file": "yardim.json",
+    "video_file": "yardim.mp4",
+    "frame_count": 68,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "yarin": {
+    "label": "Yarin",
+    "label_index": 26,
+    "pose_file": "yarin.json",
+    "video_file": "yarin.mp4",
+    "frame_count": 41,
+    "video_exists": true,
+    "status": "ok"
+  },
+  "zaman": {
+    "label": "Zaman",
+    "label_index": 27,
+    "pose_file": "zaman.json",
+    "video_file": "zaman.mp4",
+    "frame_count": 51,
+    "video_exists": true,
+    "status": "ok"
+  }
+}
